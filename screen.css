@@ -1,37 +1,5 @@
-body {
-    background: #fff;
-    font-family: Helvetica, sans-serif;
-    border-top: 15px solid #000;
-    margin: 0;
-    color: #000;;
-}
-
-h3 {
-    background-image: url('images/izzone.png');
-    background-repeat: no-repeat; 
-    background-size: 40px;
-    background-position: center left;
-    font-size: 3em;
-    padding-left: 55px;
-    margin: 100px 0 25 0
-}
-
-h3 {
-    background-image: url('images/hairspray.jpg');
-    background-repeat: no-repeat; 
-    background-size: 40px;
-    background-position: center left;
-    font-size: 3em;
-    padding-left: 55px;
-    margin: 100px 0 25 0
-}
-
-h2 {
-    background-image: url('images/headshot.jpg');
-    background-repeat: no-repeat; 
-    background-size: 40px;
-    background-position: center left;
-    font-size: 3em;
-    padding-left: 55px;
-    margin: 100px 0 25 0
+.blog-post {
+    background: no-repeat bottom / cover url('images/hairspray.jpg'); 
+    height: 220px;
+    border-radius: 20px;
 }
