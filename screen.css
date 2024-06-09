@@ -1,5 +1,6 @@
 .blog-post {
     background: no-repeat bottom / cover url('images/hairspray.jpg'); 
-    height: 220px;
+    height: 100px;
+    width: 100px;
     border-radius: 20px;
 }
